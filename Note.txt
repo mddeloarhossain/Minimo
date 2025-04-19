@@ -1,0 +1,24 @@
+Font Family Declarion:
+	Playfair Display: CSS class for a variable style, font-family: "Playfair Display", serif;
+	Ubuntu: CSS class,  font-family: "Ubuntu", sans-serif;
+	
+Screen-Major 3
+	Desktop
+	Tab
+	Mobile
+
+
+Art Board-CTRL+R
+
+Menu-16px
+Paragraph-16px
+
+
+
+CSS Hierarchy
+	width
+	height
+	font-family
+	font-size
+	font-weight
+	color
