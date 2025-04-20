@@ -1,13 +1,71 @@
 /*common css start*/
-*{
+/**{
 	margin: 0px;
 	padding: 0px;
-}
+}*/
 
 body{
-	font-family: ;
+	font-family: "Playfair Display", serif;
 	font-size: 16px;
 	font-weight: 400;
-	color: ;
+	color: #626262;
 }
 /*common css end*/
+
+/*Header Start*/
+header{
+	padding:30px 0px;
+/*	border: 1px solid;*/
+}
+.container{
+	overflow: hidden;
+	margin: 0 auto;
+	width: 90%;
+/*	border: 1px solid red;*/
+}
+.logo{
+	margin-top: 8px;
+	float: left;
+	width: 15%;
+/*	border: 1px solid;*/
+}
+.logo a{}
+.logo a img{
+	width: 100%;
+}
+.menu{
+	float: right;
+	width: 65%;
+/*	border: 1px solid;*/
+}
+.menu ul{
+	float: right;
+}
+.menu ul li{
+	list-style: none;
+	float: left;
+}
+.menu ul li a{
+	display: inline-block;
+	margin: 0 60px;
+	color: #626262;
+	text-decoration: none;
+	text-transform: uppercase;
+	border-bottom: 1px solid transparent;
+	transition: .33s linear;
+}
+.menu ul li:last-child a{
+	margin-right: 0px;
+}
+.menu ul li a:hover{
+	border-bottom: 1px solid #626262;
+}
+/*Header End*/
+
+/*Banner Start*/
+.banner{}
+.b_img{}
+.b_img img{
+	width: 100%;
+}
+/*Banner End*/

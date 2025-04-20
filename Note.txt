@@ -1,7 +1,7 @@
 Font Family Declarion:
 	Playfair Display: CSS class for a variable style, font-family: "Playfair Display", serif;
 	Ubuntu: CSS class,  font-family: "Ubuntu", sans-serif;
-	
+
 Screen-Major 3
 	Desktop
 	Tab
@@ -22,3 +22,18 @@ CSS Hierarchy
 	font-size
 	font-weight
 	color
+
+Font Color-000000
+	Menu-Color-
+		minimo-000000
+		lifestyle-#626262
+		photodiary-#626262
+		music-#626262
+		travel-#626262
+
+Angcor Tag-16px
+
+Transition standard-.33s 
+
+Trim image: Alt+Click to Eye (Click to chokh)
+Save for web: Alt+Shift+Ctrl+S
