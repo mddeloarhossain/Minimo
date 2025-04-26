@@ -37,3 +37,18 @@ Transition standard-.33s
 
 Trim image: Alt+Click to Eye (Click to chokh)
 Save for web: Alt+Shift+Ctrl+S
+
+
+
+
+Meta data-13/14px
+Paragraph-16px
+
+Desktop-100-120px
+Tab-80-100px
+Mobile-50-70px
+
+
+Using Box:
+		box-sizing: border-box;
+		border: 5px solid yellow;
